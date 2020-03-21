@@ -1,6 +1,7 @@
 # SpotifyClose 🚀
 
-Projeto que Clona a primeira tela do Aplicativo Spotify a ideia e praticar o desenvolvimento
+Projeto que Clona o Aplicativo Spotify a ideia é praticar o desenvolvimento utilizando de aplicativos com react native 
+usando style component.
 
 <p align="center">
   <img src="screenshots/home_screen.jpeg" width="150" />
