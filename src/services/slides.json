@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Seus podcast mais escutados",
+        "itens": [
+            {
+                "photo": "https://www.blbbrasil.com.br/blog/wp-content/uploads/2019/02/governanca-startups.png",
+                "subtitle": {
+                    "title": "Governança Startups",
+                    "description" :"Episódios de podcast escolhidos para você"
+                }
+            },
+            {
+                "photo": "https://neofeed.com.br/wp-content/uploads/2020/02/robos-e-humanos-860x484.jpg",
+                "subtitle": {
+                    "title": "Inteligência Artificial",
+                    "description" :"Episódios de podcast escolhidos para você"
+                }
+            },
+            {
+                "photo": "https://neofeed.com.br/wp-content/uploads/2020/02/robos-e-humanos-860x484.jpg",
+                "subtitle": {
+                    "title": "Inteligência Artificial",
+                    "description" :"Episódios de podcast escolhidos para você"
+                }
+            },
+            {
+                "photo": "https://neofeed.com.br/wp-content/uploads/2020/02/robos-e-humanos-860x484.jpg",
+                "subtitle": {
+                    "title": "Inteligência Artificial",
+                    "description" :"Episódios de podcast escolhidos para você"
+                }
+            }             
+        ]        
+    }, 
+    {
+        "title" : "Novos episódios de podcastTop mais tocadas Brasil",
+        "itens": [
+            {
+                "photo": "https://www.blbbrasil.com.br/blog/wp-content/uploads/2019/02/governanca-startups.png",
+                "subtitle": {
+                    "title": "Governança Startups",
+                    "description" :"Episódios de podcast escolhidos para você"
+                }
+            },
+            {
+                "photo": "https://www.blbbrasil.com.br/blog/wp-content/uploads/2019/02/governanca-startups.png",
+                "subtitle": {
+                    "title": "Governança Startups",
+                    "description" :"Episódios de podcast escolhidos para você"
+                }
+            }
+        ]
+    },
+    {
+        "title" : "Escute de novo",
+        "itens": [
+            {
+                "photo": "https://www.blbbrasil.com.br/blog/wp-content/uploads/2019/02/governanca-startups.png",
+                "subtitle": {
+                    "title": "Governança Startups",
+                    "description" :"Episódios de podcast escolhidos para você"
+                }
+            },
+            {
+                "photo": "https://www.blbbrasil.com.br/blog/wp-content/uploads/2019/02/governanca-startups.png",
+                "subtitle": {
+                    "title": "Governança Startups",
+                    "description" :"Episódios de podcast escolhidos para você"
+                }
+            }
+        ]
+    }
+]
