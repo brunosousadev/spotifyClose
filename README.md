@@ -2,6 +2,10 @@
 
 Projeto que Clona a primeira tela do Aplicativo Spotify a ideia e praticar o desenvolvimento
 
+<p align="center">
+  <img src="screenshots/home_screen.jpeg" width="150" />
+</p>
+
 ## 👨🏼‍💻 Desenvolvedor 
 
 - [Bruno Sousa](https://www.linkedin.com/in/brunosousa01/)
